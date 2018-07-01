@@ -9,11 +9,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-hr {
-  max-width: 65px;
-  border-width: 3px;
-  border-color: #F05F44; 
-}
 
 .faded {
   color: rgba(255, 255, 203, 0.7); 
